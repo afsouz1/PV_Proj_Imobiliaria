@@ -1,0 +1,13 @@
+br\edu\iftm\pvprojetoimobiliaria\util\LimpaTela.class
+br\edu\iftm\pvprojetoimobiliaria\dao\ImovelDAO.class
+br\edu\iftm\pvprojetoimobiliaria\Main.class
+br\edu\iftm\pvprojetoimobiliaria\model\Imovel.class
+br\edu\iftm\pvprojetoimobiliaria\dao\ContratoDAO.class
+br\edu\iftm\pvprojetoimobiliaria\dao\ConexaoPostgreSQL.class
+br\edu\iftm\pvprojetoimobiliaria\model\Contrato.class
+br\edu\iftm\pvprojetoimobiliaria\controller\ImobiliariaController.class
+br\edu\iftm\pvprojetoimobiliaria\PVProjetoImobiliaria.class
+br\edu\iftm\pvprojetoimobiliaria\model\Cliente.class
+br\edu\iftm\pvprojetoimobiliaria\dao\ClienteDAO.class
+br\edu\iftm\pvprojetoimobiliaria\model\Pessoa.class
+br\edu\iftm\pvprojetoimobiliaria\view\ImobiliariaView.class
